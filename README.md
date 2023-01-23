@@ -2,9 +2,11 @@ Hi 👋 My name is Yigs
 =====================
 
 Desarrollador y Diseñador web
------------------------------
-
-\------------------------------------------------------------------------- Ing.Sistemas / Freelancer 🌐📦 De: Maracay - 🇻🇪 ♉ En: Guayaquil - 🇪🇨 🗯 Designer y Desarrollador Web 👓 Software Developer 🎈
+------------------------------------------------------------------------------------------------------ 
+Ing.Sistemas / Freelancer 🌐📦 
+De: Maracay - 🇻🇪 ♉ 
+En: Guayaquil - 🇪🇨 🗯 
+Designer y Desarrollador Web 👓🎈
 
 * 🌍  I'm based in Ecuador
 * 🖥️  See my portfolio at [@here](http://yigsvnsla.app)
